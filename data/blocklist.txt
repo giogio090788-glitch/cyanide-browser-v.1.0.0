@@ -1,0 +1,63 @@
+# Cyanide Browser — extra domain blocklist
+# One domain per line. Comments start with #.
+# These supplement the built-in list in adblock.c
+
+# Analytics
+analytics.twitter.com
+piwik.org
+statcounter.com
+clicky.com
+histats.com
+w3counter.com
+getclicky.com
+reinvigorate.net
+hm.baidu.com
+
+# Session recording / heatmaps
+inspectlet.com
+clicktale.net
+userengage.io
+liverecording.com
+
+# A/B testing
+optimizely.com
+monetate.net
+conductrics.com
+maxymiser.net
+qubit.com
+
+# Email tracking pixels
+t.yesware.com
+track.hubspot.com
+link.hubspot.com
+t.sidekickopen.com
+trk.klclick.com
+
+# Affiliate / click trackers
+clicksor.com
+linksynergy.com
+commission-junction.com
+zanox.com
+awin1.com
+shareasale.com
+pepperjamnetwork.com
+revsci.net
+
+# Data broker / identity resolution
+acxiom.com
+lotame.com
+liveramp.com
+tapad.com
+id5-sync.com
+idsync.rlcdn.com
+sync.mathtag.com
+pixel.advertising.com
+
+# CDN-hosted tracking scripts
+d2l6uygi1h7r47.cloudfront.net
+cdn.mxpnl.com
+cdn.heapanalytics.com
+cdn.amplitude.com
+cdn.branch.io
+js.hs-analytics.net
+js.hsforms.net
